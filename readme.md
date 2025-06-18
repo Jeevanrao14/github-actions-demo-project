@@ -15,7 +15,7 @@ Github Actions is a CI/CD tool that allows you to automate your workflow. It is 
 
 ## Example Workflow
 ```yaml
-name: Test Project
+name: Test Projec
 
 on:
   pull_request:
